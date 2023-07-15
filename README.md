@@ -17,3 +17,4 @@ The application collaborates with orchestras and venues for automatic updates, e
 attendees can save favorite events and access tailored recommendations. The project fosters community 
 engagement through user reviews and ratings. It aims to promote classical music appreciation, supporting
 orchestras and musicians while enriching the symphony experience for music enthusiasts.
+## Azure Technologies used:
