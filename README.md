@@ -35,11 +35,17 @@ Javascript.
 
 ## Steps Followed While Deploying:
 Firstly i built the complete project using visual studio code,then tested it on the live server extension's
+
 After that i have installed the git on my system.
+
 After that i uploaded,committed and push the project into my github repositry.
+
 The projecgt was deployed using the github pages and tested it.you can see it in about 
+
 After that i logged into my azure account and created azure storage account.
+
 After that i have created a container with blob storage and uploaded my project code into the container.
+
 Finally my website was deployed on the azure web services and ready to use.
 
 
