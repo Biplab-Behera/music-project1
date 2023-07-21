@@ -19,14 +19,20 @@ engagement through user reviews and ratings. It aims to promote classical music 
 orchestras and musicians while enriching the symphony experience for music enthusiasts.
 ## Azure Technologies used:
 -Static Web Apps(for deployment of the website)
+
 -Azure Storage Account
+
 -Container
+
 ## IDE Used:
 Vs code.
 ## Web Technologies Used:
 html.
+
 css.
+
 Javascript.
+
 ## Steps Followed While Deploying:
 Firstly i built the complete project using visual studio code,then tested it on the live server extension's
 After that i have installed the git on my system.
